@@ -1,8 +1,13 @@
 {
   "name": "string-encryptor",
   "module": "./src/index.ts",
+  "author": "Islam Yamor",
   "prettier": "@samislam/prettier-config",
+  "private": "true",
   "type": "module",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.ts\" \"*.md\" "
+  },
   "devDependencies": {
     "@samislam/prettier-config": "^1.1.1",
     "@types/bun": "latest"
