@@ -14,7 +14,7 @@ If you're on Linux:
 ### 2 Give it execution permissions
 ```sh
 $ sudo mv ./string-encryptor /usr/bin
-$ sudo chmod +x ./gumroad-profit-calculator
+$ sudo chmod +x ./string-encryptor
 ```
 
 
